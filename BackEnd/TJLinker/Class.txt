@@ -1,0 +1,192 @@
+[
+  {
+    "value": "科研竞赛",
+    "label": "科研竞赛",
+    "children": [
+      {
+        "value": "竞赛组队",
+        "label": "竞赛组队"
+      },
+      {
+        "value": "项目组招募",
+        "label": "项目组招募"
+      },
+      {
+        "value": "其他",
+        "label": "其他"
+      }
+    ]
+  },
+  {
+    "value": "学习互助",
+    "label": "学习互助",
+    "children": [
+      {
+        "value": "考研",
+        "label": "考研"
+      },
+      {
+        "value": "考公",
+        "label": "考公"
+      },
+      {
+        "value": "留学",
+        "label": "留学"
+      },
+      {
+        "value": "语言学习",
+        "label": "语言学习"
+      },
+      {
+        "value": "实习",
+        "label": "实习"
+      },
+      {
+        "value": "其他",
+        "label": "其他"
+      }
+    ]
+  },
+  {
+    "value": "体育活动",
+    "label": "体育活动",
+    "children": [
+      {
+        "value": "羽毛球",
+        "label": "羽毛球"
+      },
+      {
+        "value": "乒乓球",
+        "label": "乒乓球"
+      },
+      {
+        "value": "网球",
+        "label": "网球"
+      },
+      {
+        "value": "足球",
+        "label": "足球"
+      },
+      {
+        "value": "排球",
+        "label": "排球"
+      },
+      {
+        "value": "篮球",
+        "label": "篮球"
+      },
+      {
+        "value": "游泳",
+        "label": "游泳"
+      },
+      {
+        "value": "跑步",
+        "label": "跑步"
+      },
+      {
+        "value": "其他",
+        "label": "其他"
+      }
+    ]
+  },
+  {
+    "value": "娱乐组局",
+    "label": "娱乐组局",
+    "children": [
+      {
+        "value": "演唱会",
+        "label": "演唱会"
+      },
+      {
+        "value": "旅行",
+        "label": "旅行"
+      },
+      {
+        "value": "电影",
+        "label": "电影"
+      },
+      {
+        "value": "KTV",
+        "label": "KTV"
+      },
+      {
+        "value": "剧本杀",
+        "label": "剧本杀"
+      },
+      {
+        "value": "密室逃脱",
+        "label": "密室逃脱"
+      },
+      {
+        "value": "美食探店",
+        "label": "美食探店"
+      },
+      {
+        "value": "CityWalk",
+        "label": "CityWalk"
+      },
+      {
+        "value": "其他",
+        "label": "其他"
+      }
+    ]
+  },
+  {
+    "value": "拼车出行",
+    "label": "拼车出行",
+    "children": [
+      {
+        "value": "嘉定校区",
+        "label": "嘉定校区"
+      },
+      {
+        "value": "四平路校区",
+        "label": "四平路校区"
+      },
+      {
+        "value": "沪西校区",
+        "label": "沪西校区"
+      },
+      {
+        "value": "沪北校区",
+        "label": "沪北校区"
+      },
+      {
+        "value": "彰武校区",
+        "label": "彰武校区"
+      },
+      {
+        "value": "铁岭校区",
+        "label": "铁岭校区"
+      }
+    ]
+  },
+  {
+    "value": "同薅羊毛",
+    "label": "同薅羊毛",
+    "children": [
+      {
+        "value": "互助点赞",
+        "label": "互助点赞"
+      },
+      {
+        "value": "拼单团购",
+        "label": "拼单团购"
+      },
+      {
+        "value": "其他",
+        "label": "其他"
+      }
+    ]
+  },
+  {
+    "value": "其他",
+    "label": "其他",
+    "children": [
+        {
+            "value": "",
+            "label": ""
+        }
+    ]
+  }
+]

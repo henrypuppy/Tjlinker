@@ -1,0 +1,5 @@
+mysql -h localhost -u root -p
+cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+python manage.py makemigrations
+python manage.py migrate
+python manage.py populate_class_table
